@@ -1,0 +1,11 @@
+{
+    "@@locale": "es",
+    "hi": "Hola",
+    "welcome": "Bienvenido a Pokedex",
+    "enterYourName": "Ingresa tu nombre para continuar",
+    "name": "Nombre",
+    "next": "Continuar",
+    "nameEmptyError": "El nombre no puede estar vacio",
+    "nameInvalidError": "El nombre es invalido"
+
+    }
